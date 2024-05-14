@@ -1,0 +1,44 @@
+body{
+    background-color: #CD5D5D;
+}
+.Container{
+text-align: center;
+margin-top: 20px;
+margin-bottom: 20px;
+}
+#span1{
+font-size: xx-large;
+font-weight: 600;
+color: #F8FD0D;
+}
+#span2{
+    font-size: xx-large; 
+}
+#flex1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+#div2{
+    background-color: #F8FD0D;
+    height: 894px;
+    margin-right: 30px;
+    margin-left: 30px;
+}
+.card{
+width: 300px;
+text-align: center;
+color: white;
+background-color: black;
+padding-bottom: 1px;
+margin: 20px;
+}
+.card1{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+#flex2{
+    display: flex;
+    justify-content: space-around;
+  flex-wrap: wrap;
+}
